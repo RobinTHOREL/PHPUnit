@@ -1,0 +1,15 @@
+{
+  "name": "root/phpunit",
+  "require": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": { "": "src/"}
+  },
+  "authors": [
+    {
+      "name": "RobinTHOREL",
+      "email": "thorelrobin@yahoo.fr"
+    }
+  ]
+}
