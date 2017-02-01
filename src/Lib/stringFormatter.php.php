@@ -19,6 +19,7 @@ class StringFormatter
         return $this->concatString($prefix, $string);
     }
 
+
     /**
      * @param string $suffix
      * @param string $string
